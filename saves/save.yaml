@@ -1,0 +1,26 @@
+---
+secret_word: christiania
+guessed_word:
+- _
+- h
+- _
+- _
+- s
+- _
+- _
+- a
+- _
+- _
+- a
+wrong_words:
+- d
+- f
+- g
+turns_count: 10
+all_guesses:
+- a
+- s
+- d
+- f
+- g
+- h
